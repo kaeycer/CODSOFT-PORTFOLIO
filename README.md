@@ -1,1 +1,1 @@
-# CODSOFT-PORTFOLIO
+This directory contains all the code for my portfolio webpage
